@@ -1,0 +1,5 @@
+Class Practice{
+
+System.out.println("Hi");
+
+}
