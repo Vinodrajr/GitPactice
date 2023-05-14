@@ -1,5 +1,6 @@
 Class Practice{
 
-System.out.println("Hi This Code is written by nanditha");
+System.out.println("Hi");
+System.out.println("How Are You");
 
 }
